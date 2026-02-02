@@ -20,7 +20,7 @@ Ele demonstra conceitos fundamentais como rotas, modelos com Pydantic, parâmetr
 exemplo-simples-fastapi/
 ├── app/
 │   └── main.py
-├── .venv/
+├── projeto_api/ # ambiente virtual python
 ├── README.md
 └── requirements.txt
 ```
